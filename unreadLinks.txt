@@ -1,1 +1,34 @@
-Hi
+Browser Tabs:-
+https://edgecoders.com/the-mistakes-i-made-as-a-beginner-programmer-ac8b3e54c312
+https://whatis.techtarget.com/definition/proxy-server
+http://addictedtojava.blogspot.com/2013/05/creating-object-to-interface-and.html
+http://addictedtojava.blogspot.com/
+https://www.javatpoint.com/this-keyword
+https://www.programmerinterview.com/index.php/data-structures/big-o-versus-big-omega-notations/
+https://hired.com/blog/candidates/how-to-effectively-prepare-for-technical-interviews/
+
+
+Later:-
+https://www.programmerinterview.com/index.php/data-structures/big-o-versus-big-omega-notations/
+http://n00tc0d3r.blogspot.com/2013/07/optimal-game-strategy-maximum-coin-value.html
+https://stackoverflow.com/questions/46126818/find-duplicates-in-array-without-extra-memory-and-can-use-variables-for-storing
+https://www.codechef.com/wiki/tutorial-dynamic-programming -> Code chef tutorial
+
+
+Always Useful:-
+https://hired.com/blog/candidates/how-to-effectively-prepare-for-technical-interviews/
+https://www.programmerinterview.com/ -> Useful for puzzles and coding
+http://n00tc0d3r.blogspot.com -> useful for optimal solution for coding problems
+
+Contest:-
+https://www.codechef.com/event-calendar
+
+Additonal Resources in terms of contest and materials:-
+https://www.codechef.com/wiki/additional-resources
+https://www.codechef.com/wiki/
+
+Tutorials:-
+https://www.codechef.com/wiki/tutorials
+
+
+
