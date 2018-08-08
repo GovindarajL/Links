@@ -23,12 +23,18 @@ http://n00tc0d3r.blogspot.com -> useful for optimal solution for coding problems
 Contest:-
 https://www.codechef.com/event-calendar
 
+CodeChef Contest Problems and solutions:-
+https://www.codechef.com/wiki/contest-editorial
+
 Additonal Resources in terms of contest and materials:-
 https://www.codechef.com/wiki/additional-resources
 https://www.codechef.com/wiki/
 
 Tutorials:-
 https://www.codechef.com/wiki/tutorials
+
+Algorithmist:-
+http://www.algorithmist.com/index.php/Main_Page
 
 
 
